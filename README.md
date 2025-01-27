@@ -15,7 +15,7 @@ Current traffic management systems are unable to predict and prevent delays in r
 To develop a smart traffic management system that leverages machine learning and real-time data to predict and mitigate traffic delays. The system should be capable of detecting potential traffic incidents, adjusting traffic signals dynamically, and offering alternative routes to prevent or reduce congestion, thus optimizing traffic flow and minimizing commuter delays.
 
 ## Usage
-The system employs a machine learning model to classify traffic congestion levels (heavy/light) based on camera feed inputs. Using this information, the traffic lights are adjusted in real-time to improve the flow and reduce wait times at intersections. The system also integrates data sources such as Google Maps API to recommend alternative routes in case of detected congestion.
+The system employs a machine learning model to classify traffic congestion levels (heavy/light) based on camera feed inputs. Using this information, the traffic lights are adjusted in real-time to improve the flow and reduce wait times at intersections.
 
 ## Features
 - **Real-time Traffic Prediction**: Classifies traffic congestion as heavy or light using machine learning models.
